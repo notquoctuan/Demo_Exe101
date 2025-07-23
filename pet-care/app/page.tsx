@@ -30,7 +30,7 @@ export default function HomePage() {
                 <span className="text-blue-600 font-bold text-xl">PC</span>
               </div>
               <Link href="/" className="text-2xl font-bold text-gray-800">
-                PetCare Hub
+                Ipet
               </Link>
             </div>
 
